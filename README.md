@@ -1,7 +1,8 @@
 # YeomanXamarin
 Yeoman Xamarin Generator
 
-# generator-xamarin [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-xamarin [![NPM version][npm-image]][npm-url] 
+
 > Xamarin Default
 
 ## Installation
